@@ -1,0 +1,22 @@
+input{
+    border-radius: 10px;
+    margin-top:10px;
+    padding-top:5px;
+    padding-bottom:5px;
+    background-color:rgb(207, 176, 183);
+
+}
+
+button{
+    border-radius: 10px;
+    margin-top: 20px;
+    padding:5px;
+    background-color:rgb(219, 202, 235);
+}
+
+#form-container{
+    background-color:rgb(139, 139, 155);
+width:50%;
+border: radius 0%;
+align-content:center;
+}
